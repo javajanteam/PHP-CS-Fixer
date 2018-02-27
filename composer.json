@@ -21,7 +21,7 @@
         "doctrine/annotations": "^1.2",
         "php-cs-fixer/diff": "^1.2",
         "symfony/console": "^3.2 || ^4.0",
-        "symfony/event-dispatcher": "^3.0 || ^4.0",
+        "symfony/event-dispatcher": "^2.8 || ^3.0 || ^4.0",
         "symfony/filesystem": "^3.0 || ^4.0",
         "symfony/finder": "^3.0 || ^4.0",
         "symfony/options-resolver": "^3.0 || ^4.0",
